@@ -1,0 +1,1 @@
+export const host ='https://backend-fwk4.onrender.com/expense'
