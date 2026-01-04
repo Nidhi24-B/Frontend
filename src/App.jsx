@@ -6,7 +6,7 @@ import Card from './components/Card'
 import Alpha from './components/Alpha'
 import Form from './components/Form'
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
-import View from './page/view'
+import View from './page/View'
 import Add from './page/Add'
 import { ToastContainer, toast } from 'react-toastify';
 import  Edit  from './page/Edit'

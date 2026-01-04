@@ -25,7 +25,7 @@ export default function View() {
     }
   }
 
-  console.log("This is data",expense)
+  console.log("This is data",+expense)
 
   useEffect(()=>{
     fetchData();
